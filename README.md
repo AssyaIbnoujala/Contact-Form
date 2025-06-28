@@ -21,11 +21,11 @@ This is a responsive contact form built as a solution to a Frontend Mentor chall
 
 <p align="center">
   <img src="./assets/images/img1.png" width="45%" alt="Preview 1">
-  <img src="./assets/images/img2.png" width="45%" alt="Preview 2">
+  <img src="./assets/images/img3.png" width="45%" alt="Preview 2">
 </p>
 
 <p align="center">
-  <img src="./assets/images/img3.png" width="45%" alt="Preview 3">
+  <img src="./assets/images/img2.png" width="45%" alt="Preview 3">
   <img src="./assets/images/img4.png" width="45%" alt="Preview 4">
 </p>
 ## ✅ What I Learned
